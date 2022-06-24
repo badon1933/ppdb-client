@@ -3,7 +3,7 @@
       <!-- Brand Logo -->
       <a href="index3.html" class="brand-link">
         <img src="../../vendor/AdminLTE-3.2.0/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-        <span class="brand-text font-weight-light">AdminLTE 3</span>
+        <span class="brand-text font-weight-light">PPDB Client</span>
       </a>
 
       <!-- Sidebar -->
@@ -26,17 +26,33 @@
             <li class="nav-header">MENU SISWA</li>
             <li class="nav-item">
               <a href="pages/gallery.html" class="nav-link active">
-                <i class="nav-icon far fa-image"></i>
+                <i class="nav-icon far fa-edit"></i>
                 <p>
-                  Gallery
+                  Biodata
                 </p>
               </a>
             </li>
             <li class="nav-item">
               <a href="pages/gallery.html" class="nav-link">
-                <i class="nav-icon far fa-image"></i>
+                <i class="nav-icon fas fa-list"></i>
                 <p>
-                  Gallery
+                  Persyaratan Umum
+                </p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="pages/gallery.html" class="nav-link">
+                <i class="nav-icon fas fa-tasks"></i>
+                <p>
+                  Persyaratan Khusus
+                </p>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="pages/gallery.html" class="nav-link">
+                <i class="nav-icon fas fa-clipboard-check"></i>
+                <p>
+                  Pendaftaran
                 </p>
               </a>
             </li>
